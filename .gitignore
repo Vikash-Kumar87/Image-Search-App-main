@@ -1,0 +1,3 @@
+# Ignore zip and dist files
+*.zip
+.dist/
